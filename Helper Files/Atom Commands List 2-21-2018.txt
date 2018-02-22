@@ -1,0 +1,623 @@
+EditorConfig: Fix File
+EditorConfig: Generate Config
+EditorConfig: Show State
+About: Clear Update State
+About: View Release Notes
+Advanced Open File: Toggle
+Application: About
+Application: Add Project Folder
+Application: Bring All Windows to Front
+Application: Clear Project History
+Application: Hide
+Application: Hide Other Applications
+Application: Install Update
+Application: Minimize
+Application: New File
+Application: New Window
+Application: Open
+Application: Open Dev
+Application: Open File
+Application: Open Folder
+Application: Open License
+Application: Open Safe
+Application: Open Your Config
+Application: Open Your Init Script
+Application: Open Your Keymap
+Application: Open Your Snippets
+Application: Open Your Stylesheet
+Application: Quit
+Application: Reopen Project
+Application: Show Preferences
+Application: Show Settings
+Application: Unhide All Applications
+Application: Zoom
+Atomizr: Automatic Conversion
+Atomizr: Convert Atom to Sublime Text
+Atomizr: Convert Atom to Textmate
+Atomizr: Convert Atom to Visual Studio Code
+Atomizr: Convert Sublime Text Completions to Atom
+Atomizr: Convert Sublime Text Snippet to Atom
+Atomizr: Convert Sublime Text to Atom
+Atomizr: Convert Sublime Text to Textmate
+Atomizr: Convert Sublime Text to Visual Studio Code
+Atomizr: Convert Textmate to Atom
+Atomizr: Convert Textmate to Sublime Text
+Atomizr: Convert Textmate to Visual Studio Code
+Atomizr: Convert Visual Studio Code to Atom
+Atomizr: Convert Visual Studio Code to Sublime Text
+Atomizr: Convert Visual Studio Code to Textmate
+Atomizr: Open Package Settings
+Atomizr: Toggle Atom Format
+Atomizr: Toggle Sublime Sublformat
+Auto Update Packages: Update Now
+Autocomplete Plus: Activate
+Autocomplete Plus: Cancel
+Autocomplete Plus: Confirm
+Autocomplete Plus: confirmIfNonDefault
+Autocomplete Plus: Navigate to Description More Link
+Autoflow: Reflow Selection
+Bookmarks: Clear Bookmarks
+Bookmarks: Jump to Next Bookmark
+Bookmarks: Jump to Previous Bookmark
+Bookmarks: Select to Next Bookmark
+Bookmarks: Select to Previous Bookmark
+Bookmarks: Toggle Bookmark
+Bookmarks: View All
+Bracket Matcher: Close Tag
+Bracket Matcher: Go to Enclosing Bracket
+Bracket Matcher: Go to Matching Bracket
+Bracket Matcher: Remove Brackets From Selection
+Bracket Matcher: Remove Matching Brackets
+Bracket Matcher: Select Inside Brackets
+Bracket Matcher: Select Matching Brackets
+Command Palette: Show Hidden Commands
+Command Palette: Toggle
+Core: Backspace
+Core: Cancel
+Core: Close
+Core: Confirm
+Core: Copy
+Core: Cut
+Core: Delete
+Core: Focus Next
+Core: Focus Previous
+Core: Move Down
+Core: Move Left
+Core: Move Right
+Core: Move to Bottom
+Core: Move to Top
+Core: Move Up
+Core: Page Down
+Core: Page Up
+Core: Paste
+Core: Redo
+Core: Save
+Core: Save As
+Core: Select All
+Core: Select Down
+Core: Select Left
+Core: Select Page Down
+Core: Select Page Up
+Core: Select Right
+Core: Select to Bottom
+Core: Select to Top
+Core: Select Up
+Core: Undo
+Cursor History: Clear
+Cursor History: Dump History
+Cursor History: Next
+Cursor History: Next Within Editor
+Cursor History: Prev
+Cursor History: Prev Within Editor
+Cursor History: Toggle Debug
+Dash: Context Menu
+Dash: Shortcut
+Dash: Shortcut Alt
+Dash: Shortcut Alt Background
+Dash: Shortcut Background
+Duplicate Line or Selection: Duplicate
+Editor Settings: Open Grammar Config
+Editor Stats: Toggle
+Editor: Add Selection Above
+Editor: Add Selection Below
+Editor: Auto Indent
+Editor: Checkout Head Revision
+Editor: Consolidate Selections
+Editor: Copy Path
+Editor: Copy Project Path
+Editor: Copy Selection
+Editor: Cut to End of Buffer Line
+Editor: Cut to End of Line
+Editor: Delete Line
+Editor: Delete to Beginning of Line
+Editor: Delete to Beginning of Subword
+Editor: Delete to Beginning of Word
+Editor: Delete to End of Line
+Editor: Delete to End of Subword
+Editor: Delete to End of Word
+Editor: Delete to Next Word Boundary
+Editor: Delete to Previous Word Boundary
+Editor: Duplicate Lines
+Editor: Fold All
+Editor: Fold at Indent Level 1
+Editor: Fold at Indent Level 2
+Editor: Fold at Indent Level 3
+Editor: Fold at Indent Level 4
+Editor: Fold at Indent Level 5
+Editor: Fold at Indent Level 6
+Editor: Fold at Indent Level 7
+Editor: Fold at Indent Level 8
+Editor: Fold at Indent Level 9
+Editor: Fold Current Row
+Editor: Fold Selection
+Editor: Indent
+Editor: Indent Selected Rows
+Editor: Join Lines
+Editor: Log Cursor Scope
+Editor: Lower Case
+Editor: Move Line Down
+Editor: Move Line Up
+Editor: Move Selection Left
+Editor: Move Selection Right
+Editor: Move to Beginning of Line
+Editor: Move to Beginning of Next Paragraph
+Editor: Move to Beginning of Next Word
+Editor: Move to Beginning of Previous Paragraph
+Editor: Move to Beginning of Screen Line
+Editor: Move to Beginning of Word
+Editor: Move to End of Line
+Editor: Move to End of Screen Line
+Editor: Move to End of Word
+Editor: Move to First Character of Line
+Editor: Move to Next Subword Boundary
+Editor: Move to Next Word Boundary
+Editor: Move to Previous Subword Boundary
+Editor: Move to Previous Word Boundary
+Editor: Newline
+Editor: Newline Above
+Editor: Newline Below
+Editor: Outdent Selected Rows
+Editor: Paste Without Reformatting
+Editor: Scroll to Cursor
+Editor: Select Larger Syntax Node
+Editor: Select Line
+Editor: Select Smaller Syntax Node
+Editor: Select to Beginning of Line
+Editor: Select to Beginning of Next Paragraph
+Editor: Select to Beginning of Next Word
+Editor: Select to Beginning of Previous Paragraph
+Editor: Select to Beginning of Word
+Editor: Select to End of Line
+Editor: Select to End of Word
+Editor: Select to First Character of Line
+Editor: Select to Next Subword Boundary
+Editor: Select to Next Word Boundary z
+Editor: Select to Previous Subword Boundary
+Editor: Select to Previous Word Boundary
+Editor: Select Word
+Editor: Split Selections Into Lines
+Editor: toggle Indent Guide
+Editor: Toggle Line Comments
+Editor: Toggle Line Numbers
+Editor: Toggle Soft Tabs
+Editor: Toggle Soft Wrap
+Editor: Transpose
+Editor: Unfold All
+Editor: Unfold Current Row
+Editor: Upper Case
+Encoding Selector: Show
+Expose: Toggle
+File Bookmark: Add
+File Bookmark: Load Git Modified Files
+File Bookmark: Remove
+File Bookmark: Toggle Bookmark
+File Bookmark: Toggle Panel
+File Bookmark: Toggle Shortcut Icons
+File Icons: Clear Cache
+File Icons: Recompile Config
+File Icons: Toggle Changed Only
+File Icons: Toggle Colours
+File Icons: Toggle Tab Icons
+Find and Replace: Clear History
+Find and Replace: Find All
+Find and Replace: Find Next
+Find and Replace: Find Next Selected
+Find and Replace: Find Previous
+Find and Replace: Find Previous Selected
+Find and Replace: Replace All
+Find and Replace: Replace Next
+Find and Replace: Select All
+Find and Replace: Select Next
+Find and Replace: Show
+Find and Replace: Show Replace
+Find and Replace: Toggle
+Find and Replace: Use Selection as Find Pattern
+Fuzzy Finder: Toggle Buffer Finder
+Fuzzy Finder: Toggle File Finder
+Fuzzy Finder: Toggle Git Status Finder
+Git Diff: Move to Next Diff
+Git Diff: Move to Previous Diff
+Git Diff: Toggle Diff List
+Github: Activate Next List
+Github: Activate Previous List
+Github: Clone
+Github: Close All Diff Views
+Github: Close Empty Diff Views
+Github: Commit
+Github: Discard All Changes
+Github: Discard Changes in Selected Files
+Github: Fetch
+Github: Force Push
+Github: Logout
+Github: Open File
+Github: Open Issue or Pull Request
+Github: Pull
+Github: Push
+Github: Resolve File as Ours
+Github: Resolve File as Theirs
+Github: Show Diff View
+Github: Show Waterfall Diagnostics
+Github: Stage All Changes
+Github: Toggle Expanded Commit Message Editor
+Github: Toggle Git Tab
+Github: Toggle Git Tab Focus
+Github: Toggle Github Tab
+Github: Toggle Github Tab Focus
+Github: Undo Last Discard in Git Tab
+Github: Unstage All Changes
+Github: View Staged Changes for Current File
+Github: View Unstaged Changes for Current File
+Go to Line: Toggle
+Grammar Selector: Show
+Highlight Line: Toggle Background
+Highlight Line: Toggle Hide Highlight on Select
+Highlight Line: Toggle Selection Borders
+Highlight Line: Toggle Underline
+Highlight Selected: Toggle
+Incompatible Packages: View
+Jumpy: Clear
+Jumpy: Reset
+Jumpy: Toggle
+Key Binding Resolver: Toggle
+Keybinding Cheatsheet: Toggle
+Line Ending Selector: Convert to Crlf
+Line Ending Selector: Convert to Lf
+Line Ending Selector: Show
+Link: Open
+Markdown Preview: Copy Html
+Markdown Preview: Preview File
+Markdown Preview: Save as Html
+Markdown Preview: Toggle
+Markdown Preview: Toggle Break on Single Newline
+Markdown Preview: Toggle Github Style
+Maximize Panes: Maximize
+Menu Manager: Show
+Minimap: Generate Babel Plugin
+Minimap: Generate Coffee Plugin
+Minimap: Generate Javascript Plugin
+Minimap: Toggle
+New File Plus: Add File
+New File Plus: Add Folder
+New File Plus: Toggle
+Notifications: Toggle Log
+Open on Github: Blame
+Open on Github: Branch Compare
+Open on Github: Copy Url
+Open on Github: File
+Open on Github: File on Master
+Open on Github: History
+Open on Github: Issues
+Open on Github: Pull Requests
+Open on Github: Repository
+Open Project in Tower: Open
+Open Recent: Dir0 /Users/cwhite/Source/csystems/superlumic‐config
+Open Recent: Dir0 /Users/cwhite/Source/training/building‐a Javascript Development Environment
+Open Recent: Dir1 /Users/cwhite/Source/csystems/superlumic‐config
+Open Recent: Dir1 /Users/cwhite/Source/training/building‐a Javascript Development Environment
+Open Recent: Dir2 /Users/cwhite/Source/csystems/dotfiles
+Open Recent: Dir3 /Users/cwhite/Source/csystems/ansible‐workstation
+Open Recent: Dir4 /Users/cwhite/Source/csystems/workflows
+Open Recent: Dir5 /Users/cwhite/Source/csystems/superlumic
+Open Recent: Dir6 /Users/cwhite/Source/csystems/dotfiles‐private
+Open Recent: Dir7 /Users/cwhite/github/my‐theme Syntax
+Open Recent: File0 /Users/cwhite/.atom/styles.less
+Open Recent: File0 /Users/cwhite/Library/Mobile Documents/Com~Apple~Clouddocs/Application Sync/Typora/Application Support/abnerworks.Typora/themes/dropbox‐alt.css
+Open Recent: File0 /Users/cwhite/Source/csystems/dotfiles/apps/.hyper.js
+Open Recent: File0 /Users/cwhite/Source/training/building‐a Javascript Development environment/temp.cs
+Open Recent: File0 /Users/cwhite/Source/training/building‐a Javascript Development environment/temp.md
+Open Recent: File1 /Users/cwhite/.atom/styles.less
+Open Recent: File1 /Users/cwhite/Source/csystems/dotfiles/apps/.hyper.js
+Open Recent: File1 /Users/cwhite/Source/csystems/superlumic/superlumic
+Open Recent: File1 /Users/cwhite/Source/training/building‐a Javascript Development environment/temp.cs
+Open Recent: File1 /Users/cwhite/Source/training/building‐a Javascript Development environment/temp.md
+Open Recent: File2 /Users/cwhite/.atom/styles.less
+Open Recent: File2 /Users/cwhite/Source/csystems/dotfiles/.functions
+Open Recent: File2 /Users/cwhite/Source/csystems/dotfiles/apps/.hyper.js
+Open Recent: File2 /Users/cwhite/Source/csystems/superlumic/superlumic
+Open Recent: File2 /Users/cwhite/Source/training/building‐a Javascript Development environment/temp.cs
+Open Recent: File2 /Users/cwhite/Source/training/building‐a Javascript Development environment/temp.md
+Open Recent: File3 /Users/cwhite/.atom/styles.less
+Open Recent: File3 /Users/cwhite/Source/csystems/dotfiles/.aliases
+Open Recent: File3 /Users/cwhite/Source/csystems/dotfiles/.functions
+Open Recent: File3 /Users/cwhite/Source/csystems/dotfiles/apps/.hyper.js
+Open Recent: File3 /Users/cwhite/Source/csystems/superlumic/superlumic
+Open Recent: File4 /Users/cwhite/Source/csystems/dotfiles/.aliases
+Open Recent: File4 /Users/cwhite/Source/csystems/dotfiles/.bash_profile
+Open Recent: File4 /Users/cwhite/Source/csystems/dotfiles/.functions
+Open Recent: File4 /Users/cwhite/Source/csystems/dotfiles/apps/.hyper.js
+Open Recent: File4 /Users/cwhite/Source/csystems/superlumic/superlumic
+Open Recent: File5 /Users/cwhite/Source/csystems/ansible‐workstation/.gitignore
+Open Recent: File5 /Users/cwhite/Source/csystems/dotfiles/.aliases
+Open Recent: File5 /Users/cwhite/Source/csystems/dotfiles/.bash_profile
+Open Recent: File5 /Users/cwhite/Source/csystems/dotfiles/.functions
+Open Recent: File5 /Users/cwhite/Source/csystems/superlumic/superlumic
+Open Recent: File6 /Users/cwhite/Source/csystems/ansible‐workstation/.gitignore
+Open Recent: File6 /Users/cwhite/Source/csystems/dotfiles/.aliases
+Open Recent: File6 /Users/cwhite/Source/csystems/dotfiles/.bash_profile
+Open Recent: File6 /Users/cwhite/Source/csystems/dotfiles/.functions
+Open Recent: File6 /Users/cwhite/Source/training/building‐a Javascript Development environment/temp.md
+Open Recent: File7 /Users/cwhite/Source/csystems/ansible‐workstation/.gitignore
+Open Recent: File7 /Users/cwhite/Source/csystems/dotfiles/.aliases
+Open Recent: File7 /Users/cwhite/Source/csystems/dotfiles/.bash_profile
+Open Recent: File7 /Users/cwhite/Source/training/building‐a Javascript Development environment/temp.cs
+Open Recent: Clear All
+Package Generator: Generate Language Package
+Package Generator: Generate Package
+Package Generator: Generate Syntax Theme
+Pane: Close
+Pane: Close Other Items
+Pane: Decrease Size
+Pane: Increase Size
+Pane: Move Active Item to Top of Stack
+Pane: Move Item Left
+Pane: Move Item Right
+Pane: Reopen Closed Item
+Pane: Save Items
+Pane: Show Item 1
+Pane: Show Item 2
+Pane: Show Item 3
+Pane: Show Item 4
+Pane: Show Item 5
+Pane: Show Item 6
+Pane: Show Item 7
+Pane: Show Item 8
+Pane: Show Item 9
+Pane: Show Next Item
+Pane: Show Next Recently Used Item
+Pane: Show Previous Item
+Pane: Show Previous Recently Used Item
+Pane: Split Down
+Pane: Split Down and Copy Active Item
+Pane: Split Down and Move Active Item
+Pane: Split Left
+Pane: Split Left and Copy Active Item
+Pane: Split Left and Move Active Item
+Pane: Split Right
+Pane: Split Right and Copy Active Item
+Pane: Split Right and Move Active Item
+Pane: Split Up
+Pane: Split Up and Copy Active Item
+Pane: Split Up and Move Active Item
+Pigments: Convert to Hex
+Pigments: Convert to Hsl
+Pigments: Convert to Hsla
+Pigments: Convert to Rgb
+Pigments: Convert to Rgba
+Pigments: Copy as Hex
+Pigments: Copy as Hsl
+Pigments: Copy as Hsla
+Pigments: Copy as Rgb
+Pigments: Copy as Rgba
+Pigments: Find Colors
+Pigments: Project Settings
+Pigments: Reload
+Pigments: Report
+Pigments: Show Palette
+Pinned Tabs: Close Unpinned
+Pinned Tabs: Pin Active
+Pinned Tabs: Pin Selected
+Project Find: Show
+Project Find: Show in Current Directory
+Project Find: Toggle
+Project Manager: Edit Project
+Project Manager: Edit Projects
+Project Manager: List Projects
+Project Manager: Save Project
+Project Manager: Update Projects
+Project Shell Env: Load
+Project Shell Env: Reset
+Promote Folder to Project: Add Project Folder
+Regex Railroad Diagram: Disable
+Regex Railroad Diagram: Show
+Set Syntax: C
+Set Syntax: C#
+Set Syntax: C# Cake File
+Set Syntax: C# Script File
+Set Syntax: C++
+Set Syntax: Css
+Set Syntax: Clojure
+Set Syntax: CoffeeScript
+Set Syntax: CoffeeScript (Literate)
+Set Syntax: Gemfile
+Set Syntax: Git Commit Message
+Set Syntax: Git Config
+Set Syntax: Git Rebase Message
+Set Syntax: GitHub Markdown
+Set Syntax: Go
+Set Syntax: Go Template
+Set Syntax: Html
+Set Syntax: Html (Go)
+Set Syntax: Html (Mustache)
+Set Syntax: Html (Rails)
+Set Syntax: Html (Ruby Erb)
+Set Syntax: JSDoc
+Set Syntax: Json
+Set Syntax: Json (Sublime Text)
+Set Syntax: JUnit Test Report
+Set Syntax: Java
+Set Syntax: Java Properties
+Set Syntax: JavaScript
+Set Syntax: JavaScript (Rails)
+Set Syntax: JavaServer Pages
+Set Syntax: Less
+Set Syntax: Makefile
+Set Syntax: Null Grammar
+Set Syntax: Objective C
+Set Syntax: Objective C++
+Set Syntax: Php
+Set Syntax: Perl
+Set Syntax: Perl 6
+Set Syntax: Plain Text
+Set Syntax: Property List (Old Style)
+Set Syntax: Property List (Xml)
+Set Syntax: Python
+Set Syntax: Python Console
+Set Syntax: Python Traceback
+Set Syntax: Regular Expression
+Set Syntax: Regular Expression (Extended)
+Set Syntax: Regular Expressions (Python)
+Set Syntax: Ruby
+Set Syntax: Ruby on Rails
+Set Syntax: Ruby on Rails (Rjs)
+Set Syntax: Scss
+Set Syntax: Sql
+Set Syntax: Sql (Mustache)
+Set Syntax: Sql (Rails)
+Set Syntax: Sass
+Set Syntax: Shell Script
+Set Syntax: Shell Session
+Set Syntax: Strings File
+Set Syntax: Toml
+Set Syntax: TypeScript
+Set Syntax: TypeScriptReact
+Set Syntax: Xml
+Set Syntax: Xml (Sublime Text)
+Set Syntax: Xsl
+Set Syntax: Yaml
+Set Syntax: Yaml (Sublime Text)
+Set Syntax: Editorconfig
+Settings View: Change Themes
+Settings View: Check for Package Updates
+Settings View: Core
+Settings View: Editor
+Settings View: Install Packages and Themes
+Settings View: Open
+Settings View: Show Keybindings
+Settings View: Uninstall Packages
+Settings View: Uninstall Themes
+Settings View: View Installed Packages
+Settings View: View Installed Themes
+Snippets: Available
+Snippets: Expand
+Snippets: Next Tab Stop
+Snippets: Previous Tab Stop
+Spell Check: Correct Misspelling
+Spell Check: Toggle
+Status Bar: Toggle
+Styleguide: Show
+Symbols View: Go to Declaration
+Symbols View: Return From Declaration
+Symbols View: Toggle File Symbols
+Symbols View: Toggle Project Symbols
+Sync Settings: Backup
+Sync Settings: Check Backup
+Sync Settings: Fork
+Sync Settings: Restore
+Sync Settings: View Backup
+Tab Control: Show
+Tabs: Close All Tabs
+Tabs: Close Other Tabs
+Tabs: Close Saved Tabs
+Tabs: Close Tab
+Tabs: Close Tabs to Left
+Tabs: Close Tabs to Right
+Tabs: Keep Pending Tab
+Tabs: Open in New Window
+Tabs: Split Down
+Tabs: Split Left
+Tabs: Split Right
+Tabs: Split Up
+Timecop: View
+Toggle Quotes: Toggle
+Tool Bar: Position Bottom
+Tool Bar: Position Left
+Tool Bar: Position Right
+Tool Bar: Position Top
+Tool Bar: Toggle
+Tool Panel: Unfocus
+Tree View Filter: Activate
+Tree View Filter: Toggle
+Tree View: Add File
+Tree View: Add Folder
+Tree View: Collapse All
+Tree View: Collapse Directory
+Tree View: Copy
+Tree View: Copy Full Path
+Tree View: Copy Project Path
+Tree View: CutU
+Tree View: Duplicate
+Tree View: Expand Item
+Tree View: Move
+Tree View: Open in New Window
+Tree View: Open Selected Entry
+Tree View: Open Selected Entry Down
+Tree View: Open Selected Entry in Pane 1
+Tree View: Open Selected Entry in Pane 2
+Tree View: Open Selected Entry in Pane 3
+Tree View: Open Selected Entry in Pane 4
+Tree View: Open Selected Entry in Pane 5
+Tree View: Open Selected Entry in Pane 6
+Tree View: Open Selected Entry in Pane 7
+Tree View: Open Selected Entry in Pane 8
+Tree View: Open Selected Entry in Pane 9
+Tree View: Open Selected Entry Left
+Tree View: Open Selected Entry Right
+Tree View: Open Selected Entry Up
+Tree View: Paste
+Tree View: Recursive Collapse Directory
+Tree View: Recursive Expand Directory
+Tree View: Remove
+Tree View: Remove Project Folder
+Tree View: Rename
+Tree View: Reveal Active File
+Tree View: Show
+Tree View: Show Current File in File Manager
+Tree View: Show in File Manager
+Tree View: Toggle
+Tree View: Toggle Focus
+Tree View: Toggle Ignored Names
+Tree View: Toggle Vcs Ignored Files
+Tree View: Unfocus
+Update Package Dependencies: Update
+Welcome: Show
+Window: Close
+Window: Copy Active Item to Pane Above
+Window: Copy Active Item to Pane Below
+Window: Copy Active Item to Pane on Left
+Window: Copy Active Item to Pane on Right
+Window: Decrease Font Size
+Window: Focus Next Pane
+Window: Focus Pane Above
+Window: Focus Pane Below
+Window: Focus Pane on Left
+Window: Focus Pane on Right
+Window: Focus Previous Pane
+Window: Increase Font Size
+Window: Install Shell Commands
+Window: Log Deprecation Warnings
+Window: Move Active Item to Pane Above
+Window: Move Active Item to Pane Below
+Window: Move Active Item to Pane on Left
+Window: Move Active Item to Pane on Right
+Window: Reload
+Window: Reset Font Size
+Window: Run Benchmarks
+Window: Run Package Specs
+Window: Save All
+Window: Toggle Auto Indent
+Window: Toggle Bottom Dock
+Window: Toggle Dev Tools
+Window: Toggle Full Screen
+Window: Toggle Invisibles
+Window: Toggle Left Dock
+Window: Toggle Right Dock
