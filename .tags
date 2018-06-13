@@ -1,0 +1,216 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+APM: Atom Package Manager	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^## APM: Atom Package Manager$/;"	function
+Actions	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^## Actions$/;"	function
+Advanced Open File	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Advanced Open File$/;"	function
+Advanced Open File	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Advanced Open File$/;"	function
+Application	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Application$/;"	function
+Atom	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^# Atom$/;"	function
+Atomizr	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Atomizr$/;"	function
+Auto-Update-Packages	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Auto-Update-Packages$/;"	function
+Autocomplete	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Autocomplete$/;"	function
+Backup	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Backup$/;"	function
+Bars	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Bars$/;"	function
+Bookmarks	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Bookmarks$/;"	function
+Bookmarks	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Bookmarks$/;"	function
+Browser	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Browser$/;"	function
+Casing	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Casing$/;"	function
+Clearing Save State	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^## Clearing Save State$/;"	function
+Clipboard	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Clipboard$/;"	function
+Close	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Close$/;"	function
+Code	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^## Code$/;"	function
+Code	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Code$/;"	function
+Code Manipulation	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^##### Code Manipulation$/;"	function
+Color	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Color$/;"	function
+Command Line	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^# Command Line$/;"	function
+Command Palette	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Command Palette$/;"	function
+Command Palette	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Command Palette$/;"	function
+Commands	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#  Commands$/;"	function
+Community Packages	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^# Community Packages$/;"	function
+Configuration	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Configuration$/;"	function
+Copy Items	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Copy Items$/;"	function
+Cursor History	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Cursor History$/;"	function
+Dash	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Dash$/;"	function
+Delete by Line	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^##### Delete by Line$/;"	function
+Delete by Subword	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^##### Delete by Subword$/;"	function
+Delete by Word	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^##### Delete by Word$/;"	function
+Deletion	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Deletion$/;"	function
+Dev Mode	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Dev Mode$/;"	function
+Developer	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Developer$/;"	function
+Docblocks	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^##### Docblocks$/;"	function
+Document Outline	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Document Outline$/;"	function
+Duplicate Line or Selection	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Duplicate Line or Selection$/;"	function
+Editor	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Editor$/;"	function
+Editor Settings	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Editor Settings$/;"	function
+Editor Stats	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Editor Stats$/;"	function
+Editor Stats	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Editor Stats$/;"	function
+EditorConfig	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### EditorConfig$/;"	function
+Environment & Shell	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Environment & Shell$/;"	function
+Examples	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Examples$/;"	function
+Expose	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Expose$/;"	function
+File Bookmark	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### File Bookmark$/;"	function
+File Bookmark	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### File Bookmark$/;"	function
+File Bookmarks	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### File Bookmarks$/;"	function
+File Icons	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### File Icons$/;"	function
+File Patch View	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### File Patch View$/;"	function
+File Properties	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### File Properties$/;"	function
+Files	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Files$/;"	function
+Files & Project	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^## Files & Project$/;"	function
+Find and Replace	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Find and Replace$/;"	function
+Find and Replace	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Find and Replace$/;"	function
+Find and Replace Settings	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Find and Replace Settings$/;"	function
+Find in Project	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Find in Project$/;"	function
+Find in Project	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^##### Find in Project$/;"	function
+Find in Project Settings	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Find in Project Settings$/;"	function
+Focus	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Focus$/;"	function
+Folding	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Folding$/;"	function
+Formatting	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Formatting$/;"	function
+Fuzzy Finder	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Fuzzy Finder$/;"	function
+Git Diff	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Git Diff$/;"	function
+GitHub	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### GitHub$/;"	function
+Go To Line	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Go To Line$/;"	function
+Go To Line	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^##### Go To Line$/;"	function
+Grammar Selector	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Grammar Selector$/;"	function
+Highlight Line	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Highlight Line$/;"	function
+Highlight Selected	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Highlight Selected$/;"	function
+Image View	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Image View$/;"	function
+Indent Guide Improved	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Indent Guide Improved$/;"	function
+Indentation	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Indentation$/;"	function
+JavaScript	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### JavaScript$/;"	function
+JavaScript	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### JavaScript$/;"	function
+Jumpy	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Jumpy$/;"	function
+Key Binding Resolver	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Key Binding Resolver$/;"	function
+Keybinding Cheatsheet	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Keybinding Cheatsheet$/;"	function
+Keybinding Cheatsheet	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Keybinding Cheatsheet$/;"	function
+Keybindings	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Keybindings$/;"	function
+Keymap	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Keymap$/;"	function
+Language Documentation	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Language Documentation$/;"	function
+Language Regexp	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Language Regexp$/;"	function
+Language Specific	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^## Language Specific$/;"	function
+Language Specific	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Language Specific$/;"	function
+Launching Atom	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^## Launching Atom$/;"	function
+Line Ending Selector	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Line Ending Selector$/;"	function
+Line Manipulation	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^##### Line Manipulation$/;"	function
+List Projects	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### List Projects$/;"	function
+Making Atom Portable	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^## Making Atom Portable$/;"	function
+Manipulation	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Manipulation$/;"	function
+Markdown	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Markdown$/;"	function
+Markdown	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Markdown$/;"	function
+Markdown Badges Snippets	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Markdown Badges Snippets$/;"	function
+Markdown Folding	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Markdown Folding$/;"	function
+Markdown Preview	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Markdown Preview$/;"	function
+Markdown Preview	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^##### Markdown Preview$/;"	function
+Markdown Table Editor	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Markdown Table Editor$/;"	function
+Marked	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Marked$/;"	function
+Maximize Panes	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Maximize Panes$/;"	function
+Menu Manager	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Menu Manager$/;"	function
+Menus	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Menus$/;"	function
+Minimap	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Minimap$/;"	function
+Move Items	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Move Items$/;"	function
+Move Text	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Move Text$/;"	function
+Move by Character	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^##### Move by Character$/;"	function
+Move by Context	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^##### Move by Context$/;"	function
+Move by File	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^##### Move by File$/;"	function
+Move by History	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^##### Move by History$/;"	function
+Move by Line	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^##### Move by Line$/;"	function
+Move by Paragraph	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^##### Move by Paragraph$/;"	function
+Move by Screen	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^##### Move by Screen$/;"	function
+Move by Subword	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^##### Move by Subword$/;"	function
+Move by Word	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^##### Move by Word$/;"	function
+Navigation	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Navigation$/;"	function
+New	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### New$/;"	function
+New File Plus	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### New File Plus$/;"	function
+New File Plus	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### New File Plus$/;"	function
+Notifications	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Notifications$/;"	function
+Open	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Open$/;"	function
+Open External Tool	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Open External Tool$/;"	function
+Open Project in Tower	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Open Project in Tower$/;"	function
+Open Recent	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Open Recent$/;"	function
+Open on GitHub	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Open on GitHub$/;"	function
+Package Management, Keybindings & Settings	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^## Package Management, Keybindings & Settings$/;"	function
+Packages & Settings	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Packages & Settings$/;"	function
+Pages	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Pages$/;"	function
+Palettes	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Palettes$/;"	function
+Panels and Docks	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Panels and Docks$/;"	function
+Panes	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Panes$/;"	function
+Panes	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^##### Panes$/;"	function
+Paths	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Paths$/;"	function
+Pigmets	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Pigmets$/;"	function
+Pinned Tabs	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Pinned Tabs$/;"	function
+Preferences	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Preferences$/;"	function
+Profiling Startup Performance	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Profiling Startup Performance$/;"	function
+Project Find	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Project Find$/;"	function
+Project Manager	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Project Manager$/;"	function
+Project Manager	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Project Manager$/;"	function
+Project Settings	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Project Settings$/;"	function
+Project Shell Env	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Project Shell Env$/;"	function
+Projects	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Projects$/;"	function
+Promote Folder to Project	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Promote Folder to Project$/;"	function
+Prompt Big File	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Prompt Big File$/;"	function
+Property List (PLIST)	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Property List (PLIST)$/;"	function
+Property List Converter	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Property List Converter$/;"	function
+Reference	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^## Reference$/;"	function
+Reference	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Reference$/;"	function
+Regex	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Regex$/;"	function
+Regex Railroad Diagram	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Regex Railroad Diagram$/;"	function
+Rename Tabs	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Rename Tabs$/;"	function
+Safe Mode	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Safe Mode$/;"	function
+Save	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Save$/;"	function
+Scripts & Terminal	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^## Scripts & Terminal$/;"	function
+Select By File	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^##### Select By File$/;"	function
+Select by Character	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^##### Select by Character$/;"	function
+Select by Context	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^##### Select by Context$/;"	function
+Select by Line	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^##### Select by Line$/;"	function
+Select by Paragraph	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^##### Select by Paragraph$/;"	function
+Select by Screen	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^##### Select by Screen$/;"	function
+Select by Subword	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^##### Select by Subword$/;"	function
+Select by Word	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^##### Select by Word$/;"	function
+Selection	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Selection$/;"	function
+Set Syntax	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Set Syntax$/;"	function
+Settings	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^## Settings$/;"	function
+Snippet Conversion	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Snippet Conversion$/;"	function
+Snippets	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^## Snippets$/;"	function
+Snippets	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Snippets$/;"	function
+Snippets	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Snippets$/;"	function
+Source Control	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^## Source Control$/;"	function
+Source Control	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Source Control$/;"	function
+Source Control	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Source Control$/;"	function
+Spell Check	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Spell Check$/;"	function
+Split Panes	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Split Panes$/;"	function
+Staging View	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Staging View$/;"	function
+Sublime Style Column Selection	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Sublime Style Column Selection$/;"	function
+Supported properties	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Supported properties$/;"	function
+Symbols	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Symbols$/;"	function
+Symbols	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Symbols$/;"	function
+Symbols Navigator	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Symbols Navigator #testing$/;"	function
+Symbols Navigator	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Symbols Navigator$/;"	function
+Symbols Tree Nav	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Symbols Tree Nav$/;"	function
+Sync Settings	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Sync Settings$/;"	function
+Tab Control	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Tab Control$/;"	function
+Tab Control	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Tab Control$/;"	function
+Tab Title	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Tab Title$/;"	function
+Tables	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^##### Tables$/;"	function
+Tabs	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Tabs$/;"	function
+Tabs	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^##### Tabs$/;"	function
+Text Editor	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^## Text Editor$/;"	function
+Theme	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^## Theme$/;"	function
+Toggle Markdown Task	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Toggle Markdown Task$/;"	function
+Toggle Quotes	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Toggle Quotes$/;"	function
+Tool Bar	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Tool Bar$/;"	function
+Toolbar Almighty	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Toolbar Almighty$/;"	function
+Tracking & Productivity	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^## Tracking & Productivity$/;"	function
+Tracking & Productivity	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Tracking & Productivity$/;"	function
+Tree View	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Tree View$/;"	function
+Tree View	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Tree View$/;"	function
+Tree View Filter	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Tree View Filter$/;"	function
+UI	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^## UI$/;"	function
+Visualization	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Visualization$/;"	function
+WakaTime	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### WakaTime$/;"	function
+Whitespace	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### Whitespace$/;"	function
+Window	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^### Window$/;"	function
+Window	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^##### Window$/;"	function
+XML & HTML	/Users/cwhite/Source/csystems/cheatsets/Markdown Cheatsheets/Atom - Configured.md	/^#### XML & HTML$/;"	function

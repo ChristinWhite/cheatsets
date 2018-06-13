@@ -4,17 +4,17 @@ title: Alfred Cheatsheet
 
 ##  Hotkeys
 
-| Name                 | Command   | Note                                     |
-| :------------------- | :-------- | ---------------------------------------- |
-| Alfred Hotkey        | `^ space` | Activate Alfred.                         |
-| File Selection       | `^⌘ \`    | Show sections panel for selected files in macOS. |
-| Previous Path        | `⌥⌘ /`    | Show the file browser for the last browsed path. |
-| Clipboard Viewer     | `⇧⌘ \`    | Activate clipboard viewer.               |
-| Append Selected Text | `⌘ C + C` | Append selected text to existing clipboard. |
-| iTunes Mini Player   | `^⌘ ↩`    | Activate iTunes Mini Player.             |
-| Previous Commands    | `↑`       | Cycle through previous commands          |
-| Default Web Search   | `^ ↩`     | Search for entered text in default search engine |
-| Spotlight Search     | `⌥ ↩`     | Search for entered text in Spotlight     |
+| Name                 | Command   | Note                                                |
+| :------------------- | :-------- | --------------------------------------------------- |
+| Alfred Hotkey        | `^ space` | Activate Alfred.                                    |
+| File Selection       | ` ^⌥⇧⌘ F` | Show sections panel for selected files in macOS.    |
+| Previous Path        | `⌥⌘ /`    | Show the file browser for the last browsed path.    |
+| Clipboard Viewer     | `⇧⌘ \`    | Activate clipboard viewer.                          |
+| Append Selected Text | `⌘ C + C` | Append selected text to existing clipboard.         |
+| iTunes Mini Player   | `^⌥⇧⌘ I`  | Activate iTunes Mini Player.                        |
+| Previous Commands    | `↑`       | Cycle through previous commands                     |
+| Default Web Search   | `^ ↩`     | Search for entered text in default search engine    |
+| Spotlight Search     | `⌥ ↩`     | Search for entered text in Spotlight                |
 | Reveal in Finder     | `⌘ ↩`     | If selection is local reveal path or file in Finder |
 
 ---
@@ -120,7 +120,7 @@ title: Alfred Cheatsheet
 
 | Name        | Command            | Note          |
 | ----------- | ------------------ | ------------- |
-| Bing        | `b { query }`      |               |
+| Bing        | `b { query }`      | Custom Search |
 | Bing Images | `bi { query }`     | Custom Search |
 | DuckDuckGo  | `duck { query }`   |               |
 | Google      | `google { query }` |               |
@@ -129,8 +129,11 @@ title: Alfred Cheatsheet
 
 | Name       | Command            | Note          |
 | ---------- | ------------------ | ------------- |
+| DEVONthink | `dv { query }`     | Custom Search |
+| Bear       | `bear { query }`   | Custom Search |
 | HoudahSpot | `houdah { query }` | Custom Search |
 | Tembo      | `tembo { query }`  | Custom Search |
+| Things     | `things { query }` | Custom Search |
 
 ### Design
 
@@ -140,17 +143,16 @@ title: Alfred Cheatsheet
 
 ### Dev
 
-| Name         | Command                  | Note          |
-| ------------ | ------------------------ | ------------- |
-| APIs.io      | `apis { query }`         | Custom Search |
-| Codelf       | `codelf { query }`       | Custom Search |
-| Docker       | `docker { query }`       | Custom Search |
-| GitHub       | `github { query }`       | Custom Search |
-| Pluralsight  | `pluralsight { query }`  | Custom Search |
-| searchcode   | `searchcode { query }`   | Custom Search |
-| SymbolHound  | `symbol { query }`       | Custom Search |
-| VagrantCloud | `vagrantcloud { query }` | Custom Search |
-| &what;       | `amp { query }`          | Custom Search |
+| Name         | Command             | Note          |
+| ------------ | ------------------- | ------------- |
+| APIs.io      | `code { query }`    | Custom Search |
+| Codelf       | `code { query }`    | Custom Search |
+| Docker       | `docker { query }`  | Custom Search |
+| GitHub       | `github { query }`  | Custom Search |
+| searchcode   | `code { query }`    | Custom Search |
+| SymbolHound  | `code { query }`    | Custom Search |
+| VagrantCloud | `vagrant { query }` | Custom Search |
+| &what;       | `amp { query }`     | Custom Search |
 
 ### Entertainment
 
@@ -161,15 +163,14 @@ title: Alfred Cheatsheet
 
 ### News
 
-| Name             | Command               | Note          |
-| ---------------- | --------------------- | ------------- |
-| Designer News    | `dn { query }`        | Custom Search |
-| Flipboard        | `flip { query }`      | Custom Search |
-| Front-End Front  | `front { query }`     | Custom Search |
-| Hacker News      | `hn { query }`        | Custom Search |
-| Instapaper       | `insta { query }`     | Custom Search |
-| Product Hunt     | `hunt { query }`      | Custom Search |
-| WebDesigner News | `webdesign { query }` | Custom Search |
+| Name             | Command          | Note          |
+| ---------------- | ---------------- | ------------- |
+| Designer News    | `news { query }` | Custom Search |
+| Flipboard        | `news { query }` | Custom Search |
+| Front-End Front  | `news { query }` | Custom Search |
+| Hacker News      | `news { query }` | Custom Search |
+| Product Hunt     | `news { query }` | Custom Search |
+| WebDesigner News | `news { query }` | Custom Search |
 
 ### Shop
 
@@ -190,13 +191,15 @@ title: Alfred Cheatsheet
 
 | Name      | Command                  | Note          |
 | --------- | ------------------------ | ------------- |
+| Dribble   | `dribble { query }`      | Custom Search |
 | Facebook  | `facebook { query }`     |               |
 | Flickr    | `flickr { query }`       |               |
 | GoodReads | `goodreads { query }`    | Custom Search |
 | LinkedIn  | `linkedin { query }`     |               |
 | Pinterest | `pinterest { query }`    |               |
-| Reddit    | `reddit { query }`       | Custom Search |
+| Reddit    | `red { query }`          | Custom Search |
 | Twitter   | `twitter { query/user }` |               |
+| Tweetbot  | `bot { query/user }`     | Custom Search |
 
 ### Utilities
 
@@ -204,6 +207,39 @@ title: Alfred Cheatsheet
 | ------------- | ------------------- | ---- |
 | Wolfram Alpha | `wolfram { query }` |      |
 | Yubnub        | `yubnub { query }`  |      |
+
+---
+
+# Workflows 2.0
+
+## Entertainment
+
+### iTunes
+
+### Love in iTunes
+
+[Packal](http://www.packal.org/workflow/love-itunes) 
+
+> Sets current track to "loved" in iTunes, alerts user if track already loved.
+
+| Name               | Command            | Note                               |
+| ------------------ | ------------------ | ---------------------------------- |
+| Love Current Track | `love` \| `itunes` | `itunes` keyword added to workflow |
+
+### Rate iTunes Track
+
+[Repo](https://github.com/dklem/Alfred2-Rate-iTunes-Track) • [Alfred Forum](https://www.alfredforum.com/topic/375-rate-itunes-track/?tab=comments#comment-1594)
+
+> Alfred 2 workflow to rate the current playing iTunes track
+
+> Invoke Alfred 2, and type `rate <rating>` where `rating` is a number from 0-5. A selection of 0 clears the track rating. Now also supports half ratings such as 0.5, 1.5, 2.5, 3.5 or 4.5 to give the appropriate half star rating. You can also type “rate up”, “rate high”, or “rate +” to increase the rating of the song. “rate down/low/-“ also works ()vice versa).
+>
+> Two panels will be shown, the top panel is where the rating is entered. The bottom panel only shows the current track information. If selected, nothing will happen. Separated into two panels for rating reliability. (The query wasn't passed properly if the Applescript didn't execute completely)
+
+| Name                | Command                               | Note                                |
+| ------------------- | ------------------------------------- | ----------------------------------- |
+| Rate iTunes Track   | `rate/itunes { 0-5 / up/down / +/- }` | `itunes` keyword added to workflow. |
+| Display song rating | `rate` \| `itunes`                    | `itunes` keyword added to workflow. |
 
 ---
 

@@ -1,4 +1,4 @@
- title: Atom Cheatsheet
+title: Atom Cheatsheet
 
 # Atom
 
@@ -54,10 +54,11 @@
 
 ### Browser
 
-| Name  | Command              | Hotkey | Note       |
-| ----- | -------------------- | ---------- | ---------- |
-| Open Link | `Link: Open` | `^⇧ O` | Opens http(s) links under cursor. [Package Info](https://github.com/atom/link). |
-| View Release Notes | `About: View Release Notes` |                                              |                                              |
+| Name               | Command                     | Hotkey | Note                                                         |
+| ------------------ | --------------------------- | ------ | ------------------------------------------------------------ |
+| Open Link          | `Link: Open`                | `^⇧ O` | Opens http(s) links under cursor. [Package Info](https://github.com/atom/link). |
+| View Release Notes | `About: View Release Notes` |        |                                                              |
+
 ### Clipboard
 
 | Name                       | Command                              | Hotkey | Note                                                         |
@@ -263,10 +264,10 @@ More information about [Hacking Atom](http://flight-manual.atom.io/hacking-atom/
 
 ##### Go To Line
 
-| Name | Command | Hotkey | Note |
-| ---- | ------- | ---- | ---- |
-| Go To Line                       | `Go To Line: Toggle`                       | `^ G`             |                   |
-| Cancel                           | `Core: Cancel`                             | `⌘ W`                  | Contextual hotkey. |
+| Name       | Command              | Hotkey | Note               |
+| ---------- | -------------------- | ------ | ------------------ |
+| Go To Line | `Go To Line: Toggle` | `^ G`  |                    |
+| Cancel     | `Core: Cancel`       | `⌘ W`  | Contextual hotkey. |
 
 #### Selection
 
@@ -278,13 +279,13 @@ More information about [Hacking Atom](http://flight-manual.atom.io/hacking-atom/
 
 Syntax Node commands only work with limited grammars for now, more information [here](http://blog.atom.io/2018/02/13/atom-1-24.html).
 
-| Name | Command | Hotkey |
-| ---- | ------- | ---- |
-| Select Inside Brackets | `Bracket Matcher: Select Inside Brackets` | `^⌘ M` |
-| Select Matching Brackets | `Bracket Matcher: Select Matching Brackets` | `^ M` |
-| Remove Brackets from Selection | `Bracket Matcher: Remove Brackets From Selection` | `^ ]` |
-| Select Larger Syntax Node  | `Editor: Select Larger Syntax Node` | `⌥ ↑`    |
-| Select Smaller Syntax Node | `Editor: Select Smaller Syntax Node` | `⌥ ↓` |
+| Name                           | Command                                           | Hotkey |
+| ------------------------------ | ------------------------------------------------- | ------ |
+| Select Inside Brackets         | `Bracket Matcher: Select Inside Brackets`         | `^⌘ M` |
+| Select Matching Brackets       | `Bracket Matcher: Select Matching Brackets`       | `^ M`  |
+| Remove Brackets from Selection | `Bracket Matcher: Remove Brackets From Selection` | `^ ]`  |
+| Select Larger Syntax Node      | `Editor: Select Larger Syntax Node`               | `⌥ ↑`  |
+| Select Smaller Syntax Node     | `Editor: Select Smaller Syntax Node`              | `⌥ ↓`  |
 
 ##### Select by Character
 
@@ -407,14 +408,14 @@ Note that these commands close panes, not files. Depending on your focus they ma
 
 ##### Tabs
 
-| Name | Command |
-| ---- | ------- |
-| Close Tab           | `Tabs: Close Tab`         |
-| Close Tabs to Left  | `Tabs: Close Tabs To Left` |
+| Name                | Command                     |
+| ------------------- | --------------------------- |
+| Close Tab           | `Tabs: Close Tab`           |
+| Close Tabs to Left  | `Tabs: Close Tabs To Left`  |
 | Close Tabs to Right | `Tabs: Close Tabs To Right` |
-| Close Saved Tabs    | `Tabs: Close Saved Tabs`  |
-| Close Other Tabs    | `Tabs: Close All Tabs`    |
-| Close All Tabs      | `Tabs: Close All Tabs`    |
+| Close Saved Tabs    | `Tabs: Close Saved Tabs`    |
+| Close Other Tabs    | `Tabs: Close All Tabs`      |
+| Close All Tabs      | `Tabs: Close All Tabs`      |
 
 ##### Window
 
@@ -444,43 +445,43 @@ Note that these commands close panes, not files. Depending on your focus they ma
 
 #### Tree View
 
-| Name                                | Command                                         | Hotkey                       | Note              |
-| ----------------------------------- | ----------------------------------------------- | ---------------------------- | ----------------- |
-| Copy                                | `Tree View: Copy`                               | `⌘ C`                        |                   |
-| Cut                                 | `Tree View: Cut`                                | `⌘ X`                        |                   |
-| Paste                               | `Tree View: Paste`                              | `⌘ V`                        |                   |
-| Duplicate                           | `Tree View: Duplicate`                          | `D`                          |                   |
-| Rename                              | `Tree View: Rename`                             |                              |                   |
-| Move                                | `Tree View: Move`                               | `M` \| `F2`                  |                   |
-| Add File                            | `Tree View: Add File`                           | `A`                          |                   |
-| Add Folder                          | `Tree View: Add Folder`                         | `⇧ A`                        |                   |
-| Remove                              | `Tree View: Remove`                             | `⌫` \| `⌦`                   |                   |
-| Remove Project Folder               | `Tree View: Remove Project Folder`              |                              |                   |
-| Expand Item                         | `Tree View: Expand Item`                        | `→` \| `^ ]` \| `^ F` \| `L` |                   |
-| Collapse Directory                  | `Tree View: Collapse Directory`                 | `←` \| `^ [` \| `^ B` \| `H` |                   |
-| Recursively Expand Directory        | `Tree View: Recursive Collapse Directory`       | `⌥ →` \| `^⌥ ]`              |                   |
-| Recursively Collapse Directory      | `Tree View: Recursive Collapse Directory`       | `⌥ ←` \| `^⌥ [`              |                   |
-| Collapse All                        | `Tree View: Collapse All`                       |                              |                   |
-| Reveal Active File                  | `Tree View: Reveal Active File`                 | `⌘ |`                        |                   |
-| Show Current File in File Manager   | `Tree View: Show Current File In File Manager`  |                              |                   |
-| Show in File Manager                | `Tree View: Show In File Manager`               |                              |                   |
-| Open Selected Entry                 | `Tree View: Open Selected Entry`                | `↵`                          |                   |
-| Open Selected Entry Up              | `Tree View: Open Selected Entry Up`             | `⌘ K` + `↑` \| `⌘ K` + `K`   |                   |
-| Open Selected Entry Right           | `Tree View: Open Selected Entry Right`          | `⌘ K` + `→` \| `⌘ K` +  `L`  |                   |
-| Open Selected Entry Down            | `Tree View: Open Selected Entry Down`           | `⌘ K` + `↓` \| `⌘ K` + `J`   |                   |
-| Open Selected Entry Left            | `Tree View: Open Selected Entry Left`           | `⌘ K` + `←` \| `⌘ K` + `H`   |                   |
-| Open Selected Entry in Pane # (1-9) | `Tree View: Open Selected Entry In Pane #(1-9)` | `⌘ #(1-9)`                   |                   |
-| Open in New Window                  | `Tree View: Open In New Window`                 |                              |                   |
-| Copy Full Path                      | `Tree View: Copy Full Path`                     | `^⇧ C`                       |                   |
-| Copy Project Path                   | `Tree View: Copy Project Path`                  |                              |                   |
+| Name                                | Command                                         | Hotkey                       | Note               |
+| ----------------------------------- | ----------------------------------------------- | ---------------------------- | ------------------ |
+| Copy                                | `Tree View: Copy`                               | `⌘ C`                        |                    |
+| Cut                                 | `Tree View: Cut`                                | `⌘ X`                        |                    |
+| Paste                               | `Tree View: Paste`                              | `⌘ V`                        |                    |
+| Duplicate                           | `Tree View: Duplicate`                          | `D`                          |                    |
+| Rename                              | `Tree View: Rename`                             |                              |                    |
+| Move                                | `Tree View: Move`                               | `M` \| `F2`                  |                    |
+| Add File                            | `Tree View: Add File`                           | `A`                          |                    |
+| Add Folder                          | `Tree View: Add Folder`                         | `⇧ A`                        |                    |
+| Remove                              | `Tree View: Remove`                             | `⌫` \| `⌦`                   |                    |
+| Remove Project Folder               | `Tree View: Remove Project Folder`              |                              |                    |
+| Expand Item                         | `Tree View: Expand Item`                        | `→` \| `^ ]` \| `^ F` \| `L` |                    |
+| Collapse Directory                  | `Tree View: Collapse Directory`                 | `←` \| `^ [` \| `^ B` \| `H` |                    |
+| Recursively Expand Directory        | `Tree View: Recursive Collapse Directory`       | `⌥ →` \| `^⌥ ]`              |                    |
+| Recursively Collapse Directory      | `Tree View: Recursive Collapse Directory`       | `⌥ ←` \| `^⌥ [`              |                    |
+| Collapse All                        | `Tree View: Collapse All`                       |                              |                    |
+| Reveal Active File                  | `Tree View: Reveal Active File`                 | `⌘ |`                        |                    |
+| Show Current File in File Manager   | `Tree View: Show Current File In File Manager`  |                              |                    |
+| Show in File Manager                | `Tree View: Show In File Manager`               |                              |                    |
+| Open Selected Entry                 | `Tree View: Open Selected Entry`                | `↵`                          |                    |
+| Open Selected Entry Up              | `Tree View: Open Selected Entry Up`             | `⌘ K` + `↑` \| `⌘ K` + `K`   |                    |
+| Open Selected Entry Right           | `Tree View: Open Selected Entry Right`          | `⌘ K` + `→` \| `⌘ K` +  `L`  |                    |
+| Open Selected Entry Down            | `Tree View: Open Selected Entry Down`           | `⌘ K` + `↓` \| `⌘ K` + `J`   |                    |
+| Open Selected Entry Left            | `Tree View: Open Selected Entry Left`           | `⌘ K` + `←` \| `⌘ K` + `H`   |                    |
+| Open Selected Entry in Pane # (1-9) | `Tree View: Open Selected Entry In Pane #(1-9)` | `⌘ #(1-9)`                   |                    |
+| Open in New Window                  | `Tree View: Open In New Window`                 |                              |                    |
+| Copy Full Path                      | `Tree View: Copy Full Path`                     | `^⇧ C`                       |                    |
+| Copy Project Path                   | `Tree View: Copy Project Path`                  |                              |                    |
 | Move Up                             | `Core: Move Up`                                 | `K`                          | Contextual hotkey. |
 | Move Down                           | `Core: Move Down`                               | `J`                          | Contextual Hotkey. |
 | Move to Top                         | `Core: Move To Top`                             | `↖` (Home)                   | Contextual hotkey. |
 | Move to Bottom                      | `Core: Move To Bottom`                          | `↘` (End)                    | Contextual hotkey. |
-| Toggle Tree View                    | `Tree View: Toggle`                             | `⌘ \` \| `⌘ K` + `⌘ B`       |                   |
-| Toggle Tree View Focus              | `Tree View: Toggle Focus`                       | `^ 0`                        |                   |
-| Show Tree View         | `Tree View: Show`         |      | |
-| Unfocus Tree View      | `Tree View: Unfocus`      | `⎋` | |
+| Toggle Tree View                    | `Tree View: Toggle`                             | `⌘ \` \| `⌘ K` + `⌘ B`       |                    |
+| Toggle Tree View Focus              | `Tree View: Toggle Focus`                       | `^ 0`                        |                    |
+| Show Tree View                      | `Tree View: Show`                               |                              |                    |
+| Unfocus Tree View                   | `Tree View: Unfocus`                            | `⎋`                          |                    |
 
 ### Find and Replace
 
@@ -488,7 +489,7 @@ Note that these commands close panes, not files. Depending on your focus they ma
 >
 > You can limit a search to a subset of the files in your project by entering a [glob pattern](https://en.wikipedia.org/wiki/Glob_%28programming%29) into the "File/Directory pattern" text box. For example, the pattern `src/*.js` would restrict the search to javascript files in the `src` directory. The "globstar" pattern (`**`) can be used to match arbitrarily many subdirectories. For example, `docs/**/*.md` will match `docs/a/foo.md`, `docs/a/b/foo.md`, etc.
 
-― [Atom Flight Manual: Find and Replace](https://flight-manual.atom.io/using-atom/sections/find-and-replace/) 
+― [Atom Flight Manual: Find and Replace](https://flight-manual.atom.io/using-atom/sections/find-and-replace/)
 
 | Name                    | Command                                           | Hotkey  | Note                      |
 | ----------------------- | ------------------------------------------------- | ------- | ------------------------- |
@@ -560,11 +561,11 @@ Note that these commands close panes, not files. Depending on your focus they ma
 
 ### Projects
 
-| Name                  | Command                         | Hotkey                     | Note                           |
-| --------------------- | ---------------------------------- | ------------------------------ | ------------------------------ |
-| Reopen Project | `Application: Reopen Project` |  |  |
-| Add Project Folder | `Application: Add Project Folder` | `⇧⌘ O` |      |
-| Clear Project History | `Application: Clear Project History` |  | Clears the reopen project list. |
+| Name                  | Command                              | Hotkey | Note                            |
+| --------------------- | ------------------------------------ | ------ | ------------------------------- |
+| Reopen Project        | `Application: Reopen Project`        |        |                                 |
+| Add Project Folder    | `Application: Add Project Folder`    | `⇧⌘ O` |                                 |
+| Clear Project History | `Application: Clear Project History` |        | Clears the reopen project list. |
 
 ### Snippets
 
@@ -587,6 +588,8 @@ Use the `snip` trigger in your snippets file for a snippet for defining snippets
 | Toggle Available Snippets | `Snippets: Available`         |        |
 
 ### Source Control
+
+By default a lot of source control contextual information is shown in the status bar and clicking on the icons will often give you quick access to commands like switching branches.
 
 | Name                                  | Command                                         | Hotkey         | Note               |
 | ------------------------------------- | ----------------------------------------------- | -------------- | ------------------ |
@@ -614,16 +617,16 @@ Use the `snip` trigger in your snippets file for a snippet for defining snippets
 
 #### File Patch View
 
-| Name                        | Command                               | Hotkey        |
-| --------------------------- | ------------------------------------- | ------------- |
-| Open File                   | `GitHub: Open File`                   | `O`           |
-| Discard Selected Lines      | `GitHub: Discard Selected Lines`      | `⌘ ⌫` | `^ ⌫` |
-| Select Previous Hunk        | `GitHub: Select Previous Hunk`        | `⇧ ⇥`         |
-| Select Next Hunk            | `GitHub: Select Next Hunk`            | `⇥`           |
-| Move Focus to Staging View  | `GitHub: Move Right`                  | `→`           |
-| Toggle Patch Selection Mode | `GitHub: Toggle Patch Selection Mode` | `/`           |
-| Close All Diff Views    | `GitHub: Close All Diff Views`    |        |
-| Close Empty Diff Views  | `GitHub: Close Empty Diff Views`  |        |
+| Name                        | Command                               | Hotkey |
+| --------------------------- | ------------------------------------- | ------ |
+| Open File                   | `GitHub: Open File`                   | `O`    |
+| Discard Selected Lines      | `GitHub: Discard Selected Lines`      | `⌘ ⌫`  |
+| Select Previous Hunk        | `GitHub: Select Previous Hunk`        | `⇧ ⇥`  |
+| Select Next Hunk            | `GitHub: Select Next Hunk`            | `⇥`    |
+| Move Focus to Staging View  | `GitHub: Move Right`                  | `→`    |
+| Toggle Patch Selection Mode | `GitHub: Toggle Patch Selection Mode` | `/`    |
+| Close All Diff Views        | `GitHub: Close All Diff Views`        |        |
+| Close Empty Diff Views      | `GitHub: Close Empty Diff Views`      |        |
 
 #### GitHub
 
@@ -656,16 +659,16 @@ Use the `snip` trigger in your snippets file for a snippet for defining snippets
 
 #### Staging View
 
-| Name                              | Command                                     | Hotkey         |
-| --------------------------------- | ------------------------------------------- | -------------- |
-| Open File                         | `GitHub: Open File`                         | `O`            |
-| Show Diff View                    | `GitHub: Show Diff View`                    |                |
-| Discard Changes in Selected Files | `GitHub: Discard Changes In Selected Files` | `⌘ ⌫` \| `^ ⌫` |
-| Focus Next List                   | `GitHub: Focus Next`                        | `⇥`            |
-| Focus Previous List               | `GitHub: Focus Previous`                    | `⇧ ⇥`          |
-| Move Focus to File Patch View     | `GitHub: Move Focus to File Patch View`     | `←`            |
-| View Stage Changes for Current File    | `GitHub: View Staged Changes For Current File`   |      |
-| View Unstaged Changes for Current File | `GitHub: View Unstaged Changes For Current File` |      |
+| Name                                   | Command                                          | Hotkey         |
+| -------------------------------------- | ------------------------------------------------ | -------------- |
+| Open File                              | `GitHub: Open File`                              | `O`            |
+| Show Diff View                         | `GitHub: Show Diff View`                         |                |
+| Discard Changes in Selected Files      | `GitHub: Discard Changes In Selected Files`      | `⌘ ⌫` \| `^ ⌫` |
+| Focus Next List                        | `GitHub: Focus Next`                             | `⇥`            |
+| Focus Previous List                    | `GitHub: Focus Previous`                         | `⇧ ⇥`          |
+| Move Focus to File Patch View          | `GitHub: Move Focus to File Patch View`          | `←`            |
+| View Stage Changes for Current File    | `GitHub: View Staged Changes For Current File`   |                |
+| View Unstaged Changes for Current File | `GitHub: View Unstaged Changes For Current File` |                |
 
 ### Spell Check
 
@@ -784,12 +787,12 @@ Use the `snip` trigger in your snippets file for a snippet for defining snippets
 
 #### Markdown Preview
 
-| Name                                            | Command                                            | Hotkey |
-| ----------------------------------------------- | -------------------------------------------------- | ------ |
-| Invert Confirm           | Fuzzy Finder: Invert Confirm             | `⇧ ↵`          |                                      |
-| Toggle Buffer Finder     | `Fuzzy Finder: Toggle Buffer Finder`     | `⌘ B`          | Select Open File.                    |
-| Toggle File Finder       | `Fuzzy Finder: Toggle File Finder`       | `⌘ P` \| `⌘ T` | Select Project File.                 |
-| Toggle Git Status Finder | `Fuzzy Finder: Toggle Git Status Finder` | `⇧⌘ B`         | Select Modified and Untracked Files. |
+| Name                     | Command                                  | Hotkey         |
+| ------------------------ | ---------------------------------------- | -------------- |
+| Invert Confirm           | `Fuzzy Finder: Invert Confirm`           | `⇧ ↵`          |
+| Toggle Buffer Finder     | `Fuzzy Finder: Toggle Buffer Finder`     | `⌘ B`          |
+| Toggle File Finder       | `Fuzzy Finder: Toggle File Finder`       | `⌘ P` \| `⌘ T` |
+| Toggle Git Status Finder | `Fuzzy Finder: Toggle Git Status Finder` | `⇧⌘ B`         |
 
 ### Palettes
 
@@ -802,8 +805,8 @@ Use the `snip` trigger in your snippets file for a snippet for defining snippets
 
 #### Fuzzy Finder
 
-| Name                     | Command                                  | Hotkey | Note                                |
-| ------------------------ | ---------------------------------------- | ------ | ----------------------------------- |
+| Name                     | Command                                  | Hotkey         | Note                                 |
+| ------------------------ | ---------------------------------------- | -------------- | ------------------------------------ |
 | Toggle Buffer Finder     | `Fuzzy Finder: Toggle Buffer Finder`     | `⌘ B`          | Select Open File.                    |
 | Toggle File Finder       | `Fuzzy Finder: Toggle File Finder`       | `⌘ P` \| `⌘ T` | Select Project File.                 |
 | Toggle Git Status Finder | `Fuzzy Finder: Toggle Git Status Finder` | `⇧⌘ B`         | Select Modified and Untracked Files. |
@@ -847,9 +850,9 @@ Use the `snip` trigger in your snippets file for a snippet for defining snippets
 #### Symbols
 
 | Name                   | Command                                | Hotkey |
-| ---------------------- | -------------------------------------- | ---- |
-| Toggle File Symbols     | `Symbols View: Toggle File Symbols`     | `⌘ R`  |
-| Toggle Project Symbols  | `Symbols View: Toggle Project Symbols`  | `⇧⌘ R` |
+| ---------------------- | -------------------------------------- | ------ |
+| Toggle File Symbols    | `Symbols View: Toggle File Symbols`    | `⌘ R`  |
+| Toggle Project Symbols | `Symbols View: Toggle Project Symbols` | `⇧⌘ R` |
 
 ### Panels and Docks
 
@@ -861,10 +864,10 @@ Use the `snip` trigger in your snippets file for a snippet for defining snippets
 
 #### Find and Replace
 
-| Name                    | Command                          | Hotkey               | Note                     |
-| ----------------------- | -------------------------------- | ------------------------ | ------------------------ |
-| Toggle Find and Replace | `Find And Replace: Toggle`       |                          |                          |
-| Show Find and Replace   | `Find And Replace: Show`         | `⌘ F` | Focuses on Find field    |
+| Name                    | Command                          | Hotkey | Note                     |
+| ----------------------- | -------------------------------- | ------ | ------------------------ |
+| Toggle Find and Replace | `Find And Replace: Toggle`       |        |                          |
+| Show Find and Replace   | `Find And Replace: Show`         | `⌘ F`  | Focuses on Find field    |
 | Show Replace            | `Find And Replace: Show Replace` | `⌥⌘ F` | Focuses on Replace field |
 
 ##### Find in Project
@@ -890,12 +893,12 @@ Use the `snip` trigger in your snippets file for a snippet for defining snippets
 
 | Name                    | Command                           | Hotkey |
 | ----------------------- | --------------------------------- | ------ |
-| Toggle Git Tab                        | `GitHub: Toggle Git Tab`                        | `^⇧ 9`         |
-| Toggle GitHub Tab                     | `GitHub: Toggle GitHub Tab`                     | `^⇧ 8`         |
-| Toggle Git Tab Focus                  | `GitHub: Toggle Git Tab Focus`                  | `^ 9`          |
-| Toggle GitHub Tab Focus               | `GitHub: Toggle GitHub Tab Focus`               | `^ 8`          |
-| Activate Next List      | `GitHub: Activate Next List`      | `⇥` |
-| Activate Previous List  | `GitHub: Activate Previous List`  | `⇧ ⇥` |
+| Toggle Git Tab          | `GitHub: Toggle Git Tab`          | `^⇧ 9` |
+| Toggle GitHub Tab       | `GitHub: Toggle GitHub Tab`       | `^⇧ 8` |
+| Toggle Git Tab Focus    | `GitHub: Toggle Git Tab Focus`    | `^ 9`  |
+| Toggle GitHub Tab Focus | `GitHub: Toggle GitHub Tab Focus` | `^ 8`  |
+| Activate Next List      | `GitHub: Activate Next List`      | `⇥`    |
+| Activate Previous List  | `GitHub: Activate Previous List`  | `⇧ ⇥`  |
 | Close All Diff Views    | `GitHub: Close All Diff Views`    |        |
 | Close Empty Diff Views  | `GitHub: Close Empty Diff Views`  |        |
 
@@ -907,12 +910,12 @@ Use the `snip` trigger in your snippets file for a snippet for defining snippets
 
 #### Tree View
 
-| Name                   | Command                   | Hotkey |
-| ---------------------- | ------------------------- | ---- |
-| Toggle Tree View                    | `Tree View: Toggle`                             | `⌘ \` \| `⌘ K` + `⌘ B`       |
-| Toggle Tree View Focus              | `Tree View: Toggle Focus`                       | `^ 0`                        |
-| Show Tree View         | `Tree View: Show`         |      |
-| Unfocus Tree View      | `Tree View: Unfocus`      | `⎋` |
+| Name                   | Command                   | Hotkey                 |
+| ---------------------- | ------------------------- | ---------------------- |
+| Toggle Tree View       | `Tree View: Toggle`       | `⌘ \` \| `⌘ K` + `⌘ B` |
+| Toggle Tree View Focus | `Tree View: Toggle Focus` | `^ 0`                  |
+| Show Tree View         | `Tree View: Show`         |                        |
+| Unfocus Tree View      | `Tree View: Unfocus`      | `⎋`                    |
 
 ### Panes
 
@@ -953,14 +956,14 @@ Use the `snip` trigger in your snippets file for a snippet for defining snippets
 
 #### Move Items
 
-| Name | Command | Hotkey |
-| ---- | ------- | ---- |
-| Move Item Left                     | `Pane: Move Item Left`                    | `^⇧ ←` |
-| Move Item Right                    | `Pane: Move Item Right`                   | `^⇧ →` |
-| Move Active Item to Panel Above    | `Window: Move Active Item To Pane Above`  |      |
-| Move Active Item to Panel on Right | `Window: Move Active Item To Pane On Right` |      |
-| Move Active Item to Panel Below    | `Window: Move Active Item To Pane Below`  |      |
-| Move Active Item to Panel on Left  | `Window: Move Active Item To Pane On Left` |      |
+| Name                               | Command                                     | Hotkey |
+| ---------------------------------- | ------------------------------------------- | ------ |
+| Move Item Left                     | `Pane: Move Item Left`                      | `^⇧ ←` |
+| Move Item Right                    | `Pane: Move Item Right`                     | `^⇧ →` |
+| Move Active Item to Panel Above    | `Window: Move Active Item To Pane Above`    |        |
+| Move Active Item to Panel on Right | `Window: Move Active Item To Pane On Right` |        |
+| Move Active Item to Panel Below    | `Window: Move Active Item To Pane Below`    |        |
+| Move Active Item to Panel on Left  | `Window: Move Active Item To Pane On Left`  |        |
 
 #### Split Panes
 
@@ -1035,6 +1038,58 @@ window.
 
 ― [Atom Flight Manual: Atom Basics - Opening a File](http://flight-manual.atom.io/getting-started/sections/atom-basics/#opening-a-file)
 
+### Dev Mode
+
+> **Tip:** You can avoid reloading to see changes you make by opening an Atom window in Dev Mode. To open a Dev Mode Atom window run `atom --dev .` in the terminal, or use the *View > Developer > Open in Dev Mode* menu. When you edit your theme, changes will instantly be reflected!
+
+```shell
+atom --dev .
+```
+― [Atom Flight Manual: Creating a Theme - Creating a Syntax Theme](http://flight-manual.atom.io/hacking-atom/sections/creating-a-theme/#creating-a-syntax-theme)
+
+### Safe Mode
+
+> A large part of Atom's functionality comes from packages you can install. Atom will also execute the code in your [init script](http://flight-manual.atom.io/hacking-atom/sections/the-init-file) on startup. In some cases, these packages and the code in the init script might be causing unexpected behavior, problems, or performance issues.
+
+```shell
+atom --safe
+```
+
+> This starts Atom, but does not load packages from `~/.atom/packages` or `~/.atom/dev/packages` and disables loading of your init script. If you can no longer reproduce the problem in safe mode, it's likely it was caused by one of the packages or the init script.
+
+― [Atom Flight Manual: Debugging - Using Safe Mode](http://flight-manual.atom.io/hacking-atom/sections/debugging/#using-safe-mode)
+
+### Profiling Startup Performance
+
+> If the time for loading the window looks high, you can create a CPU profile for that period using the `--profile-startup` command line flag when starting Atom:
+
+```shell
+atom --profile-startup .
+```
+> This will automatically capture a CPU profile as Atom is loading and open the Developer Tools once Atom loads.
+
+― [Atom Flight Manual: Debugging - Profiling Startup Performance](https://flight-manual.atom.io/hacking-atom/sections/debugging/#profiling-startup-performance)
+
+## Clearing Save State
+
+> Atom saves a number of things about your environment when you exit in order to restore Atom to the same configuration when you next launch the program. In some cases the state that gets saved can be something undesirable that prevents Atom from working properly. In these cases, you may want to clear the state that Atom has saved.
+
+```shell
+atom --clear-window-state
+```
+
+― [Atom Flight Manual: Debugging - Clearing Save State](http://flight-manual.atom.io/hacking-atom/sections/debugging/#clearing-saved-state)
+
+## Making Atom Portable
+
+> Executing atom with the `--portable` option will take the `.atom` directory you have in the default location (`~/.atom`) and copy the relevant contents for your configuration to a new home directory in the Portable Mode location. This enables easily moving from the default location to a portable operation without losing the customization you have already set up.
+
+```shell
+atom --portable
+```
+
+― [Atom Flight Manual: Basic Customization - Taking Your Customization with you with Portable Mode](https://flight-manual.atom.io/using-atom/sections/basic-customization/#taking-your-customization-with-you-with-portable-mode)
+
 ## APM: Atom Package Manager
 
 > You can also install packages or themes from the command line using `apm`.
@@ -1060,7 +1115,7 @@ Commands:
 | Command                    | Aliases                               | Description                                                  |
 | -------------------------- | ------------------------------------- | ------------------------------------------------------------ |
 | `apm clean`                |                                       | Deletes all packages in the `node_modules` folder that are not referenced as a dependency in the package.json file. |
-| `apm config`               |                                       | Pass-through to `npm config`: Manage the npm configuration files. [Pull Request](https://github.com/atom/apm/pull/258) |
+| `apm config`               |                                       | Pass-through to `npm config`: Manage the npm configuration files. From the relevant [pull request](https://github.com/atom/apm/pull/258). |
 | `apm dedupe`               |                                       | Reduce duplication in the `node_modules` folder in the current directory. |
 | `apm develop`              | `dev`                                 | Clone the given package's Git repository to the directory specified, install its dependencies, and link it for development to `~/.atom/dev/packages/<package_name>`. |
 | `apm disable`              |                                       | Disables the named package(s).                               |
@@ -1073,7 +1128,7 @@ Commands:
 | `apm list`                 | `ls`                                  | List all the installed packages and also the packages bundled with Atom. |
 | `apm login`                |                                       | Enter your Atom.io API token and save it to the keychain. This token will be used to identify you when publishing packages to atom.io. |
 | `apm publish`              |                                       | Publish a new version of the package in the current working directory. |
-| `apm rebuild`              |                                       | Rebuild the given modules currently installed in the node_modules folder |
+| `apm rebuild`              |                                       | Rebuild the given modules currently installed in the `node_modules` folder in the current working directory. |
 | `apm rebuild-module-cache` |                                       | Rebuild the module cache for all the packages installed to `~/.atom/packages` |
 | `apm search`               |                                       | Search for Atom packages/themes on the atom.io registry.     |
 | `apm star`                 |                                       | Star the given packages on https://atom.io                   |
@@ -1087,53 +1142,3 @@ Commands:
 | `apm view`                 | `show`                                | View information about a package/theme in the atom.io registry. |
 
 All descriptions except for `apm config` from `apm help *command*`. See help commands for usage examples and further information.
-
----
-
-# Holding
-
-## Dev Mode
-
-From the [Atom Flight Manual](http://flight-manual.atom.io/hacking-atom/sections/creating-a-theme/#creating-a-syntax-theme)
-
-> **Tip:** You can avoid reloading to see changes you make by opening an Atom window in Dev Mode. To open a Dev Mode Atom window run `atom --dev .` in the terminal, or use the *View > Developer > Open in Dev Mode* menu. When you edit your theme, changes will instantly be reflected!
-
-```shell
-atom --dev .
-```
-
-## Safe Mode
-
-From the [Atom Flight Manual](http://flight-manual.atom.io/hacking-atom/sections/debugging/#using-safe-mode)
-
-> A large part of Atom's functionality comes from packages you can install. Atom will also execute the code in your [init script](http://flight-manual.atom.io/hacking-atom/sections/the-init-file) on startup. In some cases, these packages and the code in the init script might be causing unexpected behavior, problems, or performance issues.
-
-To diagnose the problems you can start Atom in Safe Mode from command line:
-
-```shell
-atom --safe
-```
-
-> This starts Atom, but does not load packages from `~/.atom/packages` or `~/.atom/dev/packages` and disables loading of your init script. If you can no longer reproduce the problem in safe mode, it's likely it was caused by one of the packages or the init script.
-
-## Profiling Startup Performance
-
-From the [Atom Flight Manual](atom --profile-startup .)
-
-> If the time for loading the window looks high, you can create a CPU profile for that period using the `--profile-startup` command line flag when starting Atom:
-
-```shell
-atom --profile-startup .
-```
-
-## Clearing Save State
-
-From the [Atom Flight Manual](http://flight-manual.atom.io/hacking-atom/sections/debugging/#clearing-saved-state)
-
-> Atom saves a number of things about your environment when you exit in order to restore Atom to the same configuration when you next launch the program. In some cases the state that gets saved can be something undesirable that prevents Atom from working properly. In these cases, you may want to clear the state that Atom has saved.
-
-Use the following command to clear Atom's saved state:
-
-`````bash
-atom --clear-window-state
-`````
